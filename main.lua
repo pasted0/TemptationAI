@@ -1,4 +1,3 @@
--->> Dear Mr.Deobfuscator, Please do not skid this <<--
 -->> Core <<--
 
 local suc, res = pcall(function()
